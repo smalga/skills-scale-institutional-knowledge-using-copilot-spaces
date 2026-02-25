@@ -19,6 +19,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer/Researcher: designs user flows, conducts usability research, and validates accessibility and UX standards.
+- Technical Writer/Documentation Specialist: maintains and updates project and product documentation for all stakeholders.
+- DevOps Engineer: manages CI/CD pipelines, infrastructure automation, deployment environments, and incident response.
+- Customer Support Representative: surfaces customer feedback and ensures user-facing issues are represented in delivery decisions.
 
 ## Key Artifacts
 - Project Charter / One-pager
